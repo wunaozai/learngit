@@ -9,3 +9,4 @@ Creating a new branch is quich & simple.
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
 This is add
+add the file again
